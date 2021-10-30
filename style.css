@@ -1,0 +1,21 @@
+.heading{
+    background-color: rgb(66, 61, 61);
+    width: 100%;
+    color: honeydew;
+   
+}
+body{
+    text-align: center;
+    font-family: 'Special Elite', cursive;
+}
+.copy_right_footer {
+    position: fixed;
+    color: #6c757d;
+    bottom: 0;
+    width: 100%;
+    font-size: 18px;
+    background-color: #f5f5f5;
+    line-height: 3;
+    text-align: center;
+    text-shadow: 5px 5px 5px rgb(151, 149, 149);
+ }
